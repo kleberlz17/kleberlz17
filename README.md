@@ -1,7 +1,6 @@
-
 # 👨‍💻 Kleber Luiz
 
-**`Desenvolvedor Java | Estagiário/Trainee | Júnior`**
+**Desenvolvedor Java | Estagiário/Trainee | Júnior**
 
 Me chamo Kleber Luiz, e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica, com previsão de conclusão em outubro de 2025. Estou buscando oportunidades como Estagiário/Trainee ou Desenvolvedor de Sistemas Júnior, com foco em Java, para ganhar experiência prática e contribuir com soluções inovadoras.
 
