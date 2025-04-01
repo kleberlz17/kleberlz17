@@ -1,28 +1,11 @@
 
-# 👨‍💻 [Kleber Luiz]
+# 👨‍💻 Kleber luiz
 
 **`Desenvolvedor Java | Estagiário/Trainee | Júnior`**
 
-Olá! Me chamo [Seu Nome], e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica, com previsão de conclusão em outubro de 2025. Estou buscando oportunidades como Estagiário/Trainee ou Desenvolvedor de Sistemas Júnior, com foco em Java, para ganhar experiência prática e contribuir com soluções inovadoras.
+Me chamo Kleber Luiz, e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica, com previsão de conclusão em outubro de 2025. Estou buscando oportunidades como Estagiário/Trainee ou Desenvolvedor de Sistemas Júnior, com foco em Java, para ganhar experiência prática e contribuir com soluções inovadoras.
 
 Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafios no mundo da tecnologia.
-
-<p align="left">
-    <a href="https://github.com/[seu-username]?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/[seu-username]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/[seu-username]?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/[seu-username]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -64,8 +47,8 @@ Atuar na área de Tecnologia da Informação, com foco em desenvolvimento de sis
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=[seu-username]&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-username]&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=kleberlz17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 ---
