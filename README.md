@@ -1,3 +1,4 @@
+
 # 👨‍💻 Kleber Luiz
 
 **Desenvolvedor Java | Estagiário/Trainee | Júnior**
@@ -8,6 +9,10 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
 
 ---
 
+<table>
+  <tr>
+    <td valign="top">
+
 ### 🔧 Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -17,26 +22,15 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-<br /><br />
-
----
-
-<table>
-  <tr>
-    <td>
-
-### 📊 Estatísticas de Linguagens
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+<br/><br/><br/>
 
 </td>
-<td>
+<td valign="top" style="padding-left: 40px;">
 
-### 📫 Contato
+### 🚀 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kleberluizferreiramachado/)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:kleberluizf15@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&label=Perfil)](https://github.com/kleberlz17)
+[![API Livraria](https://img.shields.io/badge/API_Livraria-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/library_api)  
+[![API Maquinário](https://img.shields.io/badge/API_Maquinário-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/api_maquinario)
 
 </td>
   </tr>
@@ -44,10 +38,25 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
 
 ---
 
-### 🚀 Projetos em Destaque
+<table>
+  <tr>
+    <td valign="top">
 
-[![API Livraria](https://img.shields.io/badge/API_Livraria-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/library_api)
-[![API Maquinário](https://img.shields.io/badge/API_Maquinário-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/api_maquinario)
+### 📊 Estatísticas de Linguagens
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+
+</td>
+<td style="padding-left: 40px;" valign="top">
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kleberluizferreiramachado/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:kleberluizf15@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&label=Perfil)](https://github.com/kleberlz17)
+
+</td>
+  </tr>
+</table>
 
 ---
-
