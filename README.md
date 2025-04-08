@@ -8,23 +8,19 @@ Busco oportunidades como Desenvolvedor Java Júnior para aplicar na prática tud
 
 ---
 
-### 🧪 Tecnologias que utilizo
+## 🛠️ Tecnologias
 
-#### 🔙 Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate / JPA" width="30"/>
+<div align="center">
 
-#### 🗄️ Banco de Dados  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/>
+| Backend | Banco de Dados | DevOps |
+|--------|----------------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> Spring Boot <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="30"/> Hibernate | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker |
 
-#### ⚙️ DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="30"/>
+</div>
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 - 📚 **API de Livraria**  
   API REST com autenticação via OAuth2 e JWT, utilizando Spring Boot, JPA e PostgreSQL.  
@@ -36,13 +32,13 @@ Busco oportunidades como Desenvolvedor Java Júnior para aplicar na prática tud
 
 ---
 
-### 📊 Estatísticas de Linguagens
+## 📊 Estatísticas de Linguagens
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/kleberluizferreiramachado/)
 - kleberluizf15@gmail.com
