@@ -8,33 +8,6 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td><a href="https://github.com/kleberlz17/library_api"><strong>📚 API Livraria</strong></a></td>
-      <td><a href="https://github.com/kleberlz17/api_maquinario"><strong>⚙️ API Maquinário</strong></a></td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-### 🔧 Linguagens e Tecnologias
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="JPA/Hibernate" title="JPA" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" />
-</p>
-
----
-
 ### 📊 Estatísticas e Contato
 
 <div align="center">
@@ -51,6 +24,32 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
           🧑‍💻 <a href="https://github.com/kleberlz17">GitHub</a>
         </div>
       </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔧 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="JPA/Hibernate" title="JPA" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/kleberlz17/library_api"><strong>📚 API Livraria</strong></a></td>
+      <td><a href="https://github.com/kleberlz17/api_maquinario"><strong>⚙️ API Maquinário</strong></a></td>
     </tr>
   </table>
 </div>
