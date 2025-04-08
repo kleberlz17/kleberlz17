@@ -1,24 +1,48 @@
 # 👨‍💻 Kleber Luiz
 
-**`Desenvolvedor Java | Estagiário/Trainee | Júnior`**
+**`Desenvolvedor Java | Backend | Java Júnior`**
 
-Me chamo Kleber Luiz, e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica, com previsão de conclusão em outubro de 2025. Estou buscando oportunidades como Estagiário/Trainee ou Desenvolvedor de Sistemas Júnior, com foco em Java, para ganhar experiência prática e contribuir com soluções inovadoras.
+Sou Kleber Luiz, estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista: Outubro de 2025), com foco em desenvolvimento backend utilizando Java. Tenho experiência com projetos utilizando Spring Boot, JPA/Hibernate, APIs REST, autenticação com JWT/OAuth2, e integração com bancos de dados relacionais.
 
-Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafios no mundo da tecnologia.
+Busco oportunidades como Desenvolvedor Java Júnior para aplicar na prática tudo que venho aprendendo, contribuir com soluções reais e continuar evoluindo como profissional.
 
 ---
 
-### 🔧 Linguagens e Tecnologias
+### 🧪 Tecnologias que utilizo
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="left" alt="JPA" title="JPA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px; border:none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+#### 🔙 Backend
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
+![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg)
+![JPA / Hibernate](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg)
+
+#### 🗄️ Banco de Dados
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)
+
+#### ⚙️ DevOps
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 📚 **API de Livraria**  
+  API REST com autenticação via OAuth2 e JWT, utilizando Spring Boot, JPA e PostgreSQL.  
+  [🔗 Repositório](https://github.com/kleberlz17/library_api)
+
+- 🛠️ **Sistema de Maquinários (Abstract Factory)**  
+  Projeto baseado no padrão de projeto Abstract Factory, com testes, logs, tratamento de exceções e documentação Swagger.  
+  [🔗 Repositório](https://github.com/kleberlz17/api_maquinario)
 
 ---
 
 ### 📊 Estatísticas de Linguagens
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/kleberluizferreiramachado/)
+- kleberluizf15@gmail.com
