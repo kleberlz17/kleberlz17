@@ -8,48 +8,46 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
 
 ---
 
-### 📊 Estatísticas e Contato
+### 🔧 Linguagens e Tecnologias
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" />
-      </td>
-      <td>
-        <div align="left">
-          <strong>📫 Contato</strong><br><br>
-          📧 E-mail: kleberluizf15@gmail.com<br>
-          💼 <a href="https://www.linkedin.com/in/kleberluizferreiramachado/">LinkedIn</a><br>
-          🧑‍💻 <a href="https://github.com/kleberlz17">GitHub</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="JPA" title="JPA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<br /><br />
 
 ---
 
-### 🔧 Linguagens e Tecnologias
+<table>
+  <tr>
+    <td>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="JPA/Hibernate" title="JPA" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" />
-</p>
+### 📊 Estatísticas de Linguagens
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+
+</td>
+<td>
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kleberluizferreiramachado/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:kleberluizf15@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&label=Perfil)](https://github.com/kleberlz17)
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/kleberlz17/library_api"><strong>📚 API Livraria</strong></a></td>
-      <td><a href="https://github.com/kleberlz17/api_maquinario"><strong>⚙️ API Maquinário</strong></a></td>
-    </tr>
-  </table>
-</div>
+[![API Livraria](https://img.shields.io/badge/API_Livraria-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/library_api)
+[![API Maquinário](https://img.shields.io/badge/API_Maquinário-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/api_maquinario)
+
+---
+
