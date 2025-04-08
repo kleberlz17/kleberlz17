@@ -1,44 +1,41 @@
-# 👨‍💻 Kleber Luiz
+<h1 align="center">👨‍💻 Kleber Luiz</h1>
 
-**`Desenvolvedor Java | Backend | Java Júnior`**
+<p align="center">
+Desenvolvedor Java | Backend | Java Júnior  
+</p>
 
-Sou Kleber Luiz, estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista: Outubro de 2025), com foco em desenvolvimento backend utilizando Java. Tenho experiência com projetos utilizando Spring Boot, JPA/Hibernate, APIs REST, autenticação com JWT/OAuth2, e integração com bancos de dados relacionais.
-
-Busco oportunidades como Desenvolvedor Java Júnior para aplicar na prática tudo que venho aprendendo, contribuir com soluções reais e continuar evoluindo como profissional.
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-| Backend | Banco de Dados | DevOps |
-|--------|----------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> Spring Boot <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="30"/> Hibernate | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker |
-
-</div>
+<p align="center">
+🎓 ADS - Faculdade Descomplica (Conclui em Out/25) <br>
+🚀 Buscando oportunidades como Dev Java Júnior
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🚀 Tecnologias
 
-- 📚 **API de Livraria**  
-  API REST com autenticação via OAuth2 e JWT, utilizando Spring Boot, JPA e PostgreSQL.  
-  [🔗 Repositório](https://github.com/kleberlz17/library_api)
-
-- 🛠️ **Sistema de Maquinários (Abstract Factory)**  
-  Projeto baseado no padrão de projeto Abstract Factory, com testes, logs, tratamento de exceções e documentação Swagger.  
-  [🔗 Repositório](https://github.com/kleberlz17/api_maquinario)
-
----
-
-## 📊 Estatísticas de Linguagens
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="30" title="JPA / Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
+</p>
 
 ---
 
-## 📫 Contato
+### 📂 Projetos
 
-- [LinkedIn](https://www.linkedin.com/in/kleberluizferreiramachado/)
-- kleberluizf15@gmail.com
+<p align="center">
+  🔗 <a href="https://github.com/kleberlz17/library_api">API Livraria</a> |
+  🔗 <a href="https://github.com/kleberlz17/api_maquinario">API Maquinário</a>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:kleberluizf15@gmail.com">kleberluizf15@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/kleberluizferreiramachado/">LinkedIn</a>
+</p>
