@@ -10,17 +10,17 @@ Busco oportunidades como Desenvolvedor Java Júnior para aplicar na prática tud
 
 ### 🧪 Tecnologias que utilizo
 
-#### 🔙 Backend
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
-![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg)
-![JPA / Hibernate](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg)
+#### 🔙 Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate / JPA" width="30"/>
 
-#### 🗄️ Banco de Dados
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)
+#### 🗄️ Banco de Dados  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/>
 
-#### ⚙️ DevOps
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)
+#### ⚙️ DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="30"/>
 
 ---
 
