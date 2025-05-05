@@ -30,7 +30,7 @@ Estou sempre em busca de aprender novas tecnologias e me adaptar a novos desafio
 ### 🚀 Projetos em Destaque
 
 [![API Livraria](https://img.shields.io/badge/API_Livraria-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/library_api)  
-[![API Maquinário](https://img.shields.io/badge/API_Maquinário-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/api_maquinario)
+[![API Bancaria](https://img.shields.io/badge/API_Bancaria-Repository-007ACC?style=for-the-badge)](https://github.com/kleberlz17/api_bancaria)
 
 </td>
   </tr>
