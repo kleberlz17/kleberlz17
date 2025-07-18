@@ -50,7 +50,28 @@ API para gestão bancária com operações de contas, transações e clientes, u
 ![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberlz17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 </td>
-<td style="padding-left: 40px;" valign="top">
+<td valign="top" style="padding-left: 40px;">
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kleberlz17&theme=tokyonight)
+
+</td>
+<td valign="top" style="padding-left: 40px;">
+
+### ⏰ Último Commit
+
+![GitHub last commit](https://img.shields.io/github/last-commit/kleberlz17/kleberlz17?style=for-the-badge&color=blue)
+
+</td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td valign="top">
 
 ### 📫 Contato
 
@@ -61,4 +82,3 @@ API para gestão bancária com operações de contas, transações e clientes, u
 </td>
   </tr>
 </table>
-
