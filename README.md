@@ -59,20 +59,6 @@ API para gestão bancária com operações de contas, transações e clientes, u
 </td>
 <td valign="top" style="padding-left: 40px;">
 
-### ⏰ Último Commit
-
-![GitHub last commit](https://img.shields.io/github/last-commit/kleberlz17/kleberlz17?style=for-the-badge&color=blue)
-
-</td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td valign="top">
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kleberluizferreiramachado/)  
