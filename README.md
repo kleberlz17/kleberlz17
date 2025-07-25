@@ -16,7 +16,7 @@ Me chamo Kleber Luiz, sou estudante de Análise e Desenvolvimento de Sistemas na
 <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Hibernate" title="Hibernate (JPA)" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+<img align="left" alt="FastAPI" title="FastAPI" width="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" style="margin-right: 8px;" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
